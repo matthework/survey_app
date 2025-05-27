@@ -1,0 +1,1 @@
+# Auth route placeholder if needed later
